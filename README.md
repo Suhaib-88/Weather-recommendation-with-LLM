@@ -1,21 +1,13 @@
 # Weather AI
-Welcome to the Weather AI project! This repository contains the code and resources for developing an AI-powered WhatsApp Business chatbot that provides interactive and efficient customer support by leveraging advanced natural language processing techniques.
+Welcome to the Weather AI project! This repository contains the code and resources for developing an AI-powered weather app with personalized recommendations based on user preferences and weather conditions. It
+Suggest activities, clothing, and precautions tailored to the forecasted weather.
 
-## Features
-Enhanced Customer Interaction: Understands and responds to customer inquiries in natural language.
-Personalized Support: Provides tailored responses and suggestions based on customer data.
-User-Friendly Interface: Offers an intuitive and easy-to-use interface for interacting with the bot.
-Scalability: Handles multiple customer inquiries simultaneously with quick and accurate responses.
-Cost Efficiency: Reduces the need for a large human support team.
-Technologies Used
-Large Language Model (LLM): Groq LLM, llama3-8b-8192
-Twilio API: For sending and receiving WhatsApp messages
-FastAPI: For backend services
-Ngrok: For local development and testing
+
+
 
 ## Prerequisites
-- Google gemini api key [](https://makersuite.google.com/)
-- WEATHER API [](https://www.weatherapi.com/)
+- [Google gemini api key](https://makersuite.google.com/)
+- [WEATHER API](https://www.weatherapi.com/)
 
 ## Getting Started
 
